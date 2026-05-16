@@ -1,0 +1,359 @@
+{
+  "name": "Image Grid Test",
+  "background": {
+    "backgroundColor": "#05070c",
+    "backgroundImage": "bg.webp",
+    "backgroundImageOpacity": 0.22
+  },
+  "deck": [
+    {
+      "type": "titleAndSubtitle",
+      "start": 0,
+      "end": 8,
+      "html": "<section class=\"slide titleAndSubtitle\"><h1 id=\"imp8c9dap5l\" class=\" hidden taleem-heading-lg \" > Image Grid Testing </h1><h2 id=\"imp8c9dap5m\" class=\" hidden taleem-heading-md \" > Grouping • repetition • visual organization </h2></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 0,
+          "state": {
+            "hidden": [
+              "imp8c9dap5m"
+            ]
+          }
+        },
+        {
+          "time": 3,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 8,
+      "end": 22,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap5n\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5o\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5p\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5q\" class=\" hidden \" src=\"force-intro.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 8,
+          "state": {
+            "hidden": [
+              "imp8c9dap5o",
+              "imp8c9dap5p",
+              "imp8c9dap5q"
+            ]
+          }
+        },
+        {
+          "time": 10,
+          "state": {
+            "hidden": [
+              "imp8c9dap5p",
+              "imp8c9dap5q"
+            ]
+          }
+        },
+        {
+          "time": 12,
+          "state": {
+            "hidden": [
+              "imp8c9dap5q"
+            ]
+          }
+        },
+        {
+          "time": 14,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 22,
+      "end": 36,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap5r\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5s\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5t\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5u\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 22,
+          "state": {
+            "hidden": [
+              "imp8c9dap5s",
+              "imp8c9dap5t",
+              "imp8c9dap5u"
+            ]
+          }
+        },
+        {
+          "time": 24,
+          "state": {
+            "hidden": [
+              "imp8c9dap5t",
+              "imp8c9dap5u"
+            ]
+          }
+        },
+        {
+          "time": 26,
+          "state": {
+            "hidden": [
+              "imp8c9dap5u"
+            ]
+          }
+        },
+        {
+          "time": 28,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 36,
+      "end": 50,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap5v\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5w\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5x\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap5y\" class=\" hidden \" src=\"image.png\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 36,
+          "state": {
+            "hidden": [
+              "imp8c9dap5w",
+              "imp8c9dap5x",
+              "imp8c9dap5y"
+            ]
+          }
+        },
+        {
+          "time": 38,
+          "state": {
+            "hidden": [
+              "imp8c9dap5x",
+              "imp8c9dap5y"
+            ]
+          }
+        },
+        {
+          "time": 40,
+          "state": {
+            "hidden": [
+              "imp8c9dap5y"
+            ]
+          }
+        },
+        {
+          "time": 42,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 50,
+      "end": 64,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap5z\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap60\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap61\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap62\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 50,
+          "state": {
+            "hidden": [
+              "imp8c9dap60",
+              "imp8c9dap61",
+              "imp8c9dap62"
+            ]
+          }
+        },
+        {
+          "time": 52,
+          "state": {
+            "hidden": [
+              "imp8c9dap61",
+              "imp8c9dap62"
+            ]
+          }
+        },
+        {
+          "time": 54,
+          "state": {
+            "hidden": [
+              "imp8c9dap62"
+            ]
+          }
+        },
+        {
+          "time": 56,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 64,
+      "end": 78,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap63\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap64\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap65\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap66\" class=\" hidden \" src=\"eq.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 64,
+          "state": {
+            "hidden": [
+              "imp8c9dap64",
+              "imp8c9dap65",
+              "imp8c9dap66"
+            ]
+          }
+        },
+        {
+          "time": 66,
+          "state": {
+            "hidden": [
+              "imp8c9dap65",
+              "imp8c9dap66"
+            ]
+          }
+        },
+        {
+          "time": 68,
+          "state": {
+            "hidden": [
+              "imp8c9dap66"
+            ]
+          }
+        },
+        {
+          "time": 70,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 78,
+      "end": 92,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap67\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap68\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap69\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap6a\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 78,
+          "state": {
+            "hidden": [
+              "imp8c9dap68",
+              "imp8c9dap69",
+              "imp8c9dap6a"
+            ]
+          }
+        },
+        {
+          "time": 80,
+          "state": {
+            "hidden": [
+              "imp8c9dap69",
+              "imp8c9dap6a"
+            ]
+          }
+        },
+        {
+          "time": 82,
+          "state": {
+            "hidden": [
+              "imp8c9dap6a"
+            ]
+          }
+        },
+        {
+          "time": 84,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 92,
+      "end": 106,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dap6b\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap6c\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap6d\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dap6e\" class=\" hidden \" src=\"image.png\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 92,
+          "state": {
+            "hidden": [
+              "imp8c9dap6c",
+              "imp8c9dap6d",
+              "imp8c9dap6e"
+            ]
+          }
+        },
+        {
+          "time": 94,
+          "state": {
+            "hidden": [
+              "imp8c9dap6d",
+              "imp8c9dap6e"
+            ]
+          }
+        },
+        {
+          "time": 96,
+          "state": {
+            "hidden": [
+              "imp8c9dap6e"
+            ]
+          }
+        },
+        {
+          "time": 98,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    }
+  ]
+}

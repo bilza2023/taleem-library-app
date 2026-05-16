@@ -1,0 +1,289 @@
+{
+  "name": "Image Strip Test",
+  "background": {
+    "backgroundColor": "#05070c",
+    "backgroundImage": "bg.webp",
+    "backgroundImageOpacity": 0.6
+  },
+  "deck": [
+    {
+      "type": "titleAndSubtitle",
+      "start": 0,
+      "end": 8,
+      "html": "<section class=\"slide titleAndSubtitle\"><h1 id=\"imp8c9daq6f\" class=\" hidden taleem-heading-lg \" > Image Strip Testing </h1><h2 id=\"imp8c9daq6g\" class=\" hidden taleem-heading-md \" > Sequences • comparison • visual rhythm </h2></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 0,
+          "state": {
+            "hidden": [
+              "imp8c9daq6g"
+            ]
+          }
+        },
+        {
+          "time": 3,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 8,
+      "end": 20,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9daq6h\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9daq6i\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9daq6j\" class=\" hidden \" src=\"image.png\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 8,
+          "state": {
+            "hidden": [
+              "imp8c9daq6i",
+              "imp8c9daq6j"
+            ]
+          }
+        },
+        {
+          "time": 10,
+          "state": {
+            "hidden": [
+              "imp8c9daq6j"
+            ]
+          }
+        },
+        {
+          "time": 12,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 20,
+      "end": 32,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9daq6k\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9daq6l\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9daq6m\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 20,
+          "state": {
+            "hidden": [
+              "imp8c9daq6l",
+              "imp8c9daq6m"
+            ]
+          }
+        },
+        {
+          "time": 22,
+          "state": {
+            "hidden": [
+              "imp8c9daq6m"
+            ]
+          }
+        },
+        {
+          "time": 24,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 32,
+      "end": 44,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9daq6n\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9daq6o\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9daq6p\" class=\" hidden \" src=\"image.png\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 32,
+          "state": {
+            "hidden": [
+              "imp8c9daq6o",
+              "imp8c9daq6p"
+            ]
+          }
+        },
+        {
+          "time": 34,
+          "state": {
+            "hidden": [
+              "imp8c9daq6p"
+            ]
+          }
+        },
+        {
+          "time": 36,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 44,
+      "end": 56,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9dar6q\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar6r\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar6s\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 44,
+          "state": {
+            "hidden": [
+              "imp8c9dar6r",
+              "imp8c9dar6s"
+            ]
+          }
+        },
+        {
+          "time": 46,
+          "state": {
+            "hidden": [
+              "imp8c9dar6s"
+            ]
+          }
+        },
+        {
+          "time": 48,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 56,
+      "end": 68,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9dar6t\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar6u\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar6v\" class=\" hidden \" src=\"force-intro.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 56,
+          "state": {
+            "hidden": [
+              "imp8c9dar6u",
+              "imp8c9dar6v"
+            ]
+          }
+        },
+        {
+          "time": 58,
+          "state": {
+            "hidden": [
+              "imp8c9dar6v"
+            ]
+          }
+        },
+        {
+          "time": 60,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 68,
+      "end": 80,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9dar6w\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar6x\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar6y\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 68,
+          "state": {
+            "hidden": [
+              "imp8c9dar6x",
+              "imp8c9dar6y"
+            ]
+          }
+        },
+        {
+          "time": 70,
+          "state": {
+            "hidden": [
+              "imp8c9dar6y"
+            ]
+          }
+        },
+        {
+          "time": 72,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 80,
+      "end": 92,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9dar6z\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar70\" class=\" hidden \" src=\"eq.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dar71\" class=\" hidden \" src=\"force-intro.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 80,
+          "state": {
+            "hidden": [
+              "imp8c9dar70",
+              "imp8c9dar71"
+            ]
+          }
+        },
+        {
+          "time": 82,
+          "state": {
+            "hidden": [
+              "imp8c9dar71"
+            ]
+          }
+        },
+        {
+          "time": 84,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    }
+  ]
+}

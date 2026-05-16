@@ -1,0 +1,50 @@
+[
+  {
+    "file": "what-is-taleem-help.json",
+    "slug": "what-is-taleem-help"
+  },
+  {
+    "file": "text-grid-test.json",
+    "slug": "text-grid-test"
+  },
+  {
+    "file": "test00.json",
+    "slug": "test00"
+  },
+  {
+    "file": "long-skeleton-test.json",
+    "slug": "long-skeleton-test"
+  },
+  {
+    "file": "image-strip-test.json",
+    "slug": "image-strip-test"
+  },
+  {
+    "file": "image-grid-test.json",
+    "slug": "image-grid-test"
+  },
+  {
+    "file": "golden-dsl-8-may-26.json",
+    "slug": "golden-dsl-8-may-26"
+  },
+  {
+    "file": "full-lesson-flow-test.json",
+    "slug": "full-lesson-flow-test"
+  },
+  {
+    "file": "focus-list-test.json",
+    "slug": "focus-list-test"
+  },
+  {
+    "file": "eg-test03.json",
+    "slug": "eg-test03"
+  },
+  {
+    "file": "eg-test02.json",
+    "slug": "eg-test02"
+  },
+  {
+    "file": "eg-test01.json",
+    "slug": "eg-test01"
+  }
+]

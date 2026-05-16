@@ -1,0 +1,1097 @@
+{
+  "name": "Golden DSL",
+  "background": {
+    "backgroundColor": "#05070c",
+    "backgroundImage": "bg.webp",
+    "backgroundImageOpacity": 0.22
+  },
+  "deck": [
+    {
+      "type": "titleAndSubtitle",
+      "start": 0,
+      "end": 10,
+      "html": "<section class=\"slide titleAndSubtitle\"><h1 id=\"imp8c9dan3s\" class=\" hidden taleem-heading-lg \" > taleem Slides </h1><h2 id=\"imp8c9dan3t\" class=\" hidden taleem-heading-md \" > A calm, structured way to present ideas </h2></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 0,
+          "state": {
+            "hidden": [
+              "imp8c9dan3t"
+            ]
+          }
+        },
+        {
+          "time": 3,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "titleAndPara",
+      "start": 10,
+      "end": 20,
+      "html": "<section class=\"slide titleAndPara\"><h1 id=\"imp8c9dan3u\" class=\" hidden taleem-heading-md \" > What is taleem Slides? </h1><p id=\"imp8c9dan3v\" class=\" hidden taleem-para \" > taleem Slides is a simple system that turns structured data into clear visual slides. </p></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 10,
+          "state": {
+            "hidden": [
+              "imp8c9dan3v"
+            ]
+          }
+        },
+        {
+          "time": 13,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "start": 20,
+      "end": 30,
+      "html": "<section class=\"slide bulletList\"><ul><li id=\"imp8c9dan3w\" class=\"hidden\" > Slides are generated from clean data </li><li id=\"imp8c9dan3x\" class=\"hidden\" > Nothing changes behind the scenes </li><li id=\"imp8c9dan3y\" class=\"hidden\" > The author controls what appears </li><li id=\"imp8c9dan3z\" class=\"hidden\" > The same lesson looks the same everywhere </li></ul></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 20,
+          "state": {
+            "hidden": [
+              "imp8c9dan3x",
+              "imp8c9dan3y",
+              "imp8c9dan3z"
+            ]
+          }
+        },
+        {
+          "time": 22,
+          "state": {
+            "hidden": [
+              "imp8c9dan3y",
+              "imp8c9dan3z"
+            ]
+          }
+        },
+        {
+          "time": 24,
+          "state": {
+            "hidden": [
+              "imp8c9dan3z"
+            ]
+          }
+        },
+        {
+          "time": 26,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "twoColumnText",
+      "start": 30,
+      "end": 40,
+      "html": "<section class=\"slide twoColumnText\"><div class=\"col left\"><div id=\"imp8c9dao40\" class=\" hidden \" > taleem-browser shows complete slides. </div></div><div class=\"col right\"><div id=\"imp8c9dao41\" class=\" hidden \" > taleem-player reveals ideas progressively. </div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 30,
+          "state": {
+            "hidden": [
+              "imp8c9dao41"
+            ]
+          }
+        },
+        {
+          "time": 34,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageSlide",
+      "start": 40,
+      "end": 50,
+      "html": "<section class=\"slide imageSlide\"><img id=\"imp8c9dao42\" class=\" hidden \" src=\"image.png\" alt=\"\" /></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 40,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageWithTitle",
+      "start": 50,
+      "end": 60,
+      "html": "<section class=\"slide imageWithTitle\"><h1 id=\"imp8c9dao43\" class=\" hidden \" > Visual Support Matters </h1><img id=\"imp8c9dao44\" class=\" hidden \" src=\"image.png\" /></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 50,
+          "state": {
+            "hidden": [
+              "imp8c9dao44"
+            ]
+          }
+        },
+        {
+          "time": 53,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageWithCaption",
+      "start": 60,
+      "end": 70,
+      "html": "<figure class=\"slide imageWithCaption\"><img id=\"imp8c9dao45\" class=\" hidden \" src=\"image.png\" /><figcaption id=\"imp8c9dao46\" class=\" hidden \" > Images help anchor understanding </figcaption></figure>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 60,
+          "state": {
+            "hidden": [
+              "imp8c9dao46"
+            ]
+          }
+        },
+        {
+          "time": 63,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageLeftBulletsRight",
+      "start": 70,
+      "end": 80,
+      "html": "<section class=\"slide imageLeftBulletsRight\"><img id=\"imp8c9dao47\" class=\" hidden \" src=\"image.png\" /><ul><li id=\"imp8c9dao48\" class=\" hidden \" > Each slide focuses on one idea </li><li id=\"imp8c9dao49\" class=\" hidden \" > Points are revealed in order </li><li id=\"imp8c9dao4a\" class=\" hidden \" > Students follow step by step </li></ul></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 70,
+          "state": {
+            "hidden": [
+              "imp8c9dao48",
+              "imp8c9dao49",
+              "imp8c9dao4a"
+            ]
+          }
+        },
+        {
+          "time": 72,
+          "state": {
+            "hidden": [
+              "imp8c9dao49",
+              "imp8c9dao4a"
+            ]
+          }
+        },
+        {
+          "time": 74,
+          "state": {
+            "hidden": [
+              "imp8c9dao4a"
+            ]
+          }
+        },
+        {
+          "time": 76,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageRightBulletsLeft",
+      "start": 80,
+      "end": 90,
+      "html": "<section class=\"slide imageRightBulletsLeft\"><ul><li id=\"imp8c9dao4c\" class=\" hidden \" > Slides remain stable and predictable </li><li id=\"imp8c9dao4d\" class=\" hidden \" > The teacher controls the pace </li><li id=\"imp8c9dao4e\" class=\" hidden \" > Learning stays calm and focused </li></ul><img id=\"imp8c9dao4b\" class=\" hidden \" src=\"image.png\" /></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 80,
+          "state": {
+            "hidden": [
+              "imp8c9dao4c",
+              "imp8c9dao4d",
+              "imp8c9dao4e"
+            ]
+          }
+        },
+        {
+          "time": 82,
+          "state": {
+            "hidden": [
+              "imp8c9dao4d",
+              "imp8c9dao4e"
+            ]
+          }
+        },
+        {
+          "time": 84,
+          "state": {
+            "hidden": [
+              "imp8c9dao4e"
+            ]
+          }
+        },
+        {
+          "time": 86,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "start": 90,
+      "end": 100,
+      "html": "<section class=\"slide table\"><table><tbody><tr id=\"imp8c9dao4f\" class=\"hidden \" ><td>Layer</td><td>Role</td></tr><tr id=\"imp8c9dao4g\" class=\"hidden \" ><td>taleem-core</td><td>Defines schema</td></tr><tr id=\"imp8c9dao4h\" class=\"hidden \" ><td>taleem-player</td><td>Playback</td></tr></tbody></table></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 90,
+          "state": {
+            "hidden": [
+              "imp8c9dao4g",
+              "imp8c9dao4h"
+            ]
+          }
+        },
+        {
+          "time": 92,
+          "state": {
+            "hidden": [
+              "imp8c9dao4h"
+            ]
+          }
+        },
+        {
+          "time": 94,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "barChart",
+      "start": 100,
+      "end": 110,
+      "html": "<section class=\"slide barChart\"><div class=\"bar-chart\"><div id=\"imp8c9dao4i\" class=\"bar-row hidden \" ><div class=\"bar-label\"> Clarity </div><div class=\"bar-track\"><div class=\"bar-fill\" style=\"width:100%\" ></div></div><div class=\"bar-value\"> 6 </div></div><div id=\"imp8c9dao4j\" class=\"bar-row hidden \" ><div class=\"bar-label\"> Structure </div><div class=\"bar-track\"><div class=\"bar-fill\" style=\"width:83.33333333333334%\" ></div></div><div class=\"bar-value\"> 5 </div></div><div id=\"imp8c9dao4k\" class=\"bar-row hidden \" ><div class=\"bar-label\"> Consistency </div><div class=\"bar-track\"><div class=\"bar-fill\" style=\"width:100%\" ></div></div><div class=\"bar-value\"> 6 </div></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 100,
+          "state": {
+            "hidden": [
+              "imp8c9dao4j",
+              "imp8c9dao4k"
+            ]
+          }
+        },
+        {
+          "time": 102,
+          "state": {
+            "hidden": [
+              "imp8c9dao4k"
+            ]
+          }
+        },
+        {
+          "time": 104,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "progressbar",
+      "start": 110,
+      "end": 120,
+      "html": "<section class=\"slide progressbar\"><div id=\"imp8c9dao4l\" class=\" progressbar-item hidden \" ><div class=\"progressbar-label\"> Lesson Progress </div><div class=\"progressbar-track\"><div class=\"progressbar-fill\" style=\"width:60%\" ></div></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 110,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "quoteSlide",
+      "start": 120,
+      "end": 130,
+      "html": "<blockquote class=\"slide quoteSlide\"><p id=\"imp8c9dao4m\" class=\" hidden \" > Clarity makes learning easier. </p><footer id=\"imp8c9dao4n\" class=\" hidden \" > — taleem </footer></blockquote>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 120,
+          "state": {
+            "hidden": [
+              "imp8c9dao4n"
+            ]
+          }
+        },
+        {
+          "time": 123,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "keyIdeasSlide",
+      "start": 130,
+      "end": 140,
+      "html": "<section class=\"slide keyIdeasSlide\"><div id=\"imp8c9dao4o\" class=\" key-idea hidden \" ><div class=\"icon\"> 🧠 </div><div class=\"label\"> Focus </div></div><div id=\"imp8c9dao4p\" class=\" key-idea hidden \" ><div class=\"icon\"> 📘 </div><div class=\"label\"> Clarity </div></div><div id=\"imp8c9dao4q\" class=\" key-idea hidden \" ><div class=\"icon\"> 🎯 </div><div class=\"label\"> Understanding </div></div><div id=\"imp8c9dao4r\" class=\" key-idea hidden \" ><div class=\"icon\"> 🧠 </div><div class=\"label\"> Deliberation </div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 130,
+          "state": {
+            "hidden": [
+              "imp8c9dao4p",
+              "imp8c9dao4q",
+              "imp8c9dao4r"
+            ]
+          }
+        },
+        {
+          "time": 132,
+          "state": {
+            "hidden": [
+              "imp8c9dao4q",
+              "imp8c9dao4r"
+            ]
+          }
+        },
+        {
+          "time": 134,
+          "state": {
+            "hidden": [
+              "imp8c9dao4r"
+            ]
+          }
+        },
+        {
+          "time": 136,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "eq",
+      "start": 140,
+      "end": 155,
+      "html": "<section class=\"slide eq\"><ul class=\"eq-lines\"><li id=\"imp8c9dao4s\" class=\" eq-item eq-title \" > Expansion of a Binomial </li><li id=\"imp8c9dao4t\" class=\" eq-item eq-math \" > $$ (a+b)^2 $$ </li><li id=\"imp8c9dao4u\" class=\" eq-item eq-math \" > $$ = (a+b)(a+b) $$ </li><li id=\"imp8c9dao4v\" class=\" eq-item eq-math \" > $$ = a(a+b) + b(a+b) $$ </li><li id=\"imp8c9dao4w\" class=\" eq-item eq-math \" > $$ = a^2 + ab + ab + b^2 $$ </li><li id=\"imp8c9dao4x\" class=\" eq-item eq-line \" > Two middle terms are identical. </li><li id=\"imp8c9dao4y\" class=\" eq-item eq-math \" > $$ = a^2 + 2ab + b^2 $$ </li><li id=\"imp8c9dao4z\" class=\" eq-item eq-line \" > This identity appears frequently in algebra. </li><li id=\"imp8c9dao50\" class=\" eq-item eq-math \" > $$ (x+y)^2 = x^2 + 2xy + y^2 $$ </li><li id=\"imp8c9dao51\" class=\" eq-item eq-line \" > Always verify expansions carefully. </li></ul><div class=\"eq-side-panel\"><div id=\"imp8c9dao4s-sp-1\" class=\"eq-explain-item hidden\" > Expand the square step by step. </div><div id=\"imp8c9dao4s-sp-2\" class=\"eq-explain-item hidden\" > Then combine like terms. </div><div id=\"imp8c9dao4t-sp-1\" class=\"eq-explain-item hidden\" > The bracket multiplies itself. </div><div id=\"imp8c9dao4u-sp-1\" class=\"eq-explain-item hidden\" ><img src=\"box.webp\" /></div><div id=\"imp8c9dao4u-sp-2\" class=\"eq-explain-item hidden\" > Area model of multiplication. </div><div id=\"imp8c9dao4v-sp-1\" class=\"eq-explain-item hidden\" > Distribute both terms carefully. </div><div id=\"imp8c9dao4w-sp-1\" class=\"eq-explain-item hidden\" > Every product is now visible. </div><div id=\"imp8c9dao4x-sp-1\" class=\"eq-explain-item hidden\" > Both contain ab. </div><div id=\"imp8c9dao4y-sp-1\" class=\"eq-explain-item hidden\" > Combine like terms. </div><div id=\"imp8c9dao4z-sp-1\" class=\"eq-explain-item hidden\" > Used in simplification and factorization. </div><div id=\"imp8c9dao50-sp-1\" class=\"eq-explain-item hidden\" > The same pattern works for all variables. </div><div id=\"imp8c9dao51-sp-1\" class=\"eq-explain-item hidden\" > Most algebra mistakes happen during expansion. </div></div></section>",
+      "groups": {
+        "focus": [],
+        "dim": [
+          "dim"
+        ],
+        "visible": [],
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 140,
+          "state": {
+            "focus": [
+              "imp8c9dao4s"
+            ],
+            "dim": [
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2"
+            ],
+            "hidden": [
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 141,
+          "state": {
+            "focus": [
+              "imp8c9dao4t"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4t-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 142,
+          "state": {
+            "focus": [
+              "imp8c9dao4u"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 143,
+          "state": {
+            "focus": [
+              "imp8c9dao4v"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4v-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 144,
+          "state": {
+            "focus": [
+              "imp8c9dao4w"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4w-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 145,
+          "state": {
+            "focus": [
+              "imp8c9dao4x"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4x-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 146,
+          "state": {
+            "focus": [
+              "imp8c9dao4y"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4z",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4y-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 147,
+          "state": {
+            "focus": [
+              "imp8c9dao4z"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao50",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao4z-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao50-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 148,
+          "state": {
+            "focus": [
+              "imp8c9dao50"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao51"
+            ],
+            "visible": [
+              "imp8c9dao50-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao51-sp-1"
+            ]
+          }
+        },
+        {
+          "time": 149,
+          "state": {
+            "focus": [
+              "imp8c9dao51"
+            ],
+            "dim": [
+              "imp8c9dao4s",
+              "imp8c9dao4t",
+              "imp8c9dao4u",
+              "imp8c9dao4v",
+              "imp8c9dao4w",
+              "imp8c9dao4x",
+              "imp8c9dao4y",
+              "imp8c9dao4z",
+              "imp8c9dao50"
+            ],
+            "visible": [
+              "imp8c9dao51-sp-1"
+            ],
+            "hidden": [
+              "imp8c9dao4s-sp-1",
+              "imp8c9dao4s-sp-2",
+              "imp8c9dao4t-sp-1",
+              "imp8c9dao4u-sp-1",
+              "imp8c9dao4u-sp-2",
+              "imp8c9dao4v-sp-1",
+              "imp8c9dao4w-sp-1",
+              "imp8c9dao4x-sp-1",
+              "imp8c9dao4y-sp-1",
+              "imp8c9dao4z-sp-1",
+              "imp8c9dao50-sp-1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "fillImage",
+      "start": 155,
+      "end": 160,
+      "html": "<section class=\"slide fillImage\"><img id=\"imp8c9dao52\" class=\" hidden \" src=\"image.png\" /></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 155,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "focusList",
+      "start": 160,
+      "end": 170,
+      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dao53\" class=\"\" > Step-by-step focus </h1><ul><li id=\"imp8c9dao54\" class=\"\" > Understand the idea </li><li id=\"imp8c9dao55\" class=\"\" > Break it into parts </li><li id=\"imp8c9dao56\" class=\"\" > Verify the result </li></ul></section>",
+      "groups": {
+        "focus": [],
+        "dim": [
+          "dim"
+        ]
+      },
+      "actions": [
+        {
+          "time": 160,
+          "state": {
+            "focus": [
+              "imp8c9dao53"
+            ],
+            "dim": [
+              "imp8c9dao54",
+              "imp8c9dao55",
+              "imp8c9dao56"
+            ]
+          }
+        },
+        {
+          "time": 162,
+          "state": {
+            "focus": [
+              "imp8c9dao54"
+            ],
+            "dim": [
+              "imp8c9dao53",
+              "imp8c9dao55",
+              "imp8c9dao56"
+            ]
+          }
+        },
+        {
+          "time": 164,
+          "state": {
+            "focus": [
+              "imp8c9dao55"
+            ],
+            "dim": [
+              "imp8c9dao53",
+              "imp8c9dao54",
+              "imp8c9dao56"
+            ]
+          }
+        },
+        {
+          "time": 166,
+          "state": {
+            "focus": [
+              "imp8c9dao56"
+            ],
+            "dim": [
+              "imp8c9dao53",
+              "imp8c9dao54",
+              "imp8c9dao55"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 170,
+      "end": 180,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9dao57\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dao58\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dao59\" class=\" hidden \" src=\"whatisforce.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 170,
+          "state": {
+            "hidden": [
+              "imp8c9dao58",
+              "imp8c9dao59"
+            ]
+          }
+        },
+        {
+          "time": 172,
+          "state": {
+            "hidden": [
+              "imp8c9dao59"
+            ]
+          }
+        },
+        {
+          "time": 174,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageGrid",
+      "start": 180,
+      "end": 190,
+      "html": "<section class=\"slide imageGrid\"><div class=\"image-grid\"><div class=\"image-grid-item\"><img id=\"imp8c9dao5a\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dao5b\" class=\" hidden \" src=\"image.png\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dao5c\" class=\" hidden \" src=\"whatisforce.webp\" /></div><div class=\"image-grid-item\"><img id=\"imp8c9dao5d\" class=\" hidden \" src=\"box.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 180,
+          "state": {
+            "hidden": [
+              "imp8c9dao5b",
+              "imp8c9dao5c",
+              "imp8c9dao5d"
+            ]
+          }
+        },
+        {
+          "time": 182,
+          "state": {
+            "hidden": [
+              "imp8c9dao5c",
+              "imp8c9dao5d"
+            ]
+          }
+        },
+        {
+          "time": 184,
+          "state": {
+            "hidden": [
+              "imp8c9dao5d"
+            ]
+          }
+        },
+        {
+          "time": 186,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "skeleton",
+      "start": 190,
+      "end": 200,
+      "html": "<section class=\"slide skeleton\"><div class=\"skeleton-body\"><h1 id=\"imp8c9dao5e\" class=\"hidden \" > Understanding Force </h1><div id=\"imp8c9dao5f\" class=\"skeleton-image hidden \" ><img src=\"whatisforce.webp\" /></div><p id=\"imp8c9dao5g\" class=\"hidden \" > Force is a push or pull. </p></div></section>",
+      "groups": {
+        "visible": [],
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 190,
+          "state": {
+            "visible": [
+              "imp8c9dao5e"
+            ],
+            "hidden": [
+              "imp8c9dao5f",
+              "imp8c9dao5g"
+            ]
+          }
+        },
+        {
+          "time": 192,
+          "state": {
+            "visible": [
+              "imp8c9dao5f"
+            ],
+            "hidden": [
+              "imp8c9dao5e",
+              "imp8c9dao5g"
+            ]
+          }
+        },
+        {
+          "time": 194,
+          "state": {
+            "visible": [
+              "imp8c9dao5g"
+            ],
+            "hidden": [
+              "imp8c9dao5e",
+              "imp8c9dao5f"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "textGrid",
+      "start": 200,
+      "end": 210,
+      "html": "<section class=\"slide textGrid\"><div class=\"text-grid\"><div id=\"imp8c9dao5h\" class=\" text-grid-item hidden \" > Clear structure improves understanding </div><div id=\"imp8c9dao5i\" class=\" text-grid-item hidden \" > Each idea should be isolated </div><div id=\"imp8c9dao5j\" class=\" text-grid-item hidden \" > Visual layout reduces confusion </div><div id=\"imp8c9dao5k\" class=\" text-grid-item hidden \" > Consistency improves learning </div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 200,
+          "state": {
+            "hidden": [
+              "imp8c9dao5i",
+              "imp8c9dao5j",
+              "imp8c9dao5k"
+            ]
+          }
+        },
+        {
+          "time": 202,
+          "state": {
+            "hidden": [
+              "imp8c9dao5j",
+              "imp8c9dao5k"
+            ]
+          }
+        },
+        {
+          "time": 204,
+          "state": {
+            "hidden": [
+              "imp8c9dao5k"
+            ]
+          }
+        },
+        {
+          "time": 206,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "name": "Full Lesson Flow Test",
+  "background": {
+    "backgroundColor": "#05070c",
+    "backgroundImage": "bg.webp",
+    "backgroundImageOpacity": 0.22
+  },
+  "deck": [
+    {
+      "type": "titleAndSubtitle",
+      "start": 0,
+      "end": 8,
+      "html": "<section class=\"slide titleAndSubtitle\"><h1 id=\"imp8c9dam2m\" class=\" hidden taleem-heading-lg \" > Understanding Force </h1><h2 id=\"imp8c9dam2n\" class=\" hidden taleem-heading-md \" > A complete lesson flow experiment </h2></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 0,
+          "state": {
+            "hidden": [
+              "imp8c9dam2n"
+            ]
+          }
+        },
+        {
+          "time": 3,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageWithTitle",
+      "start": 8,
+      "end": 18,
+      "html": "<section class=\"slide imageWithTitle\"><h1 id=\"imp8c9dam2o\" class=\" hidden \" > Force changes motion </h1><img id=\"imp8c9dam2p\" class=\" hidden \" src=\"force-intro.webp\" /></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 8,
+          "state": {
+            "hidden": [
+              "imp8c9dam2p"
+            ]
+          }
+        },
+        {
+          "time": 10,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "focusList",
+      "start": 18,
+      "end": 34,
+      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dam2q\" class=\"\" > What We Will Learn </h1><ul><li id=\"imp8c9dam2r\" class=\"\" > What force means </li><li id=\"imp8c9dam2s\" class=\"\" > How force affects motion </li><li id=\"imp8c9dam2t\" class=\"\" > Balanced and unbalanced forces </li><li id=\"imp8c9dam2u\" class=\"\" > Force in everyday life </li></ul></section>",
+      "groups": {
+        "focus": [],
+        "dim": [
+          "dim"
+        ]
+      },
+      "actions": [
+        {
+          "time": 18,
+          "state": {
+            "focus": [
+              "imp8c9dam2q"
+            ],
+            "dim": [
+              "imp8c9dam2r",
+              "imp8c9dam2s",
+              "imp8c9dam2t",
+              "imp8c9dam2u"
+            ]
+          }
+        },
+        {
+          "time": 20,
+          "state": {
+            "focus": [
+              "imp8c9dam2r"
+            ],
+            "dim": [
+              "imp8c9dam2q",
+              "imp8c9dam2s",
+              "imp8c9dam2t",
+              "imp8c9dam2u"
+            ]
+          }
+        },
+        {
+          "time": 22,
+          "state": {
+            "focus": [
+              "imp8c9dam2s"
+            ],
+            "dim": [
+              "imp8c9dam2q",
+              "imp8c9dam2r",
+              "imp8c9dam2t",
+              "imp8c9dam2u"
+            ]
+          }
+        },
+        {
+          "time": 24,
+          "state": {
+            "focus": [
+              "imp8c9dam2t"
+            ],
+            "dim": [
+              "imp8c9dam2q",
+              "imp8c9dam2r",
+              "imp8c9dam2s",
+              "imp8c9dam2u"
+            ]
+          }
+        },
+        {
+          "time": 26,
+          "state": {
+            "focus": [
+              "imp8c9dam2u"
+            ],
+            "dim": [
+              "imp8c9dam2q",
+              "imp8c9dam2r",
+              "imp8c9dam2s",
+              "imp8c9dam2t"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "titleAndPara",
+      "start": 34,
+      "end": 46,
+      "html": "<section class=\"slide titleAndPara\"><h1 id=\"imp8c9dam2v\" class=\" hidden taleem-heading-md \" > What is Force? </h1><p id=\"imp8c9dam2w\" class=\" hidden taleem-para \" > Force is a push or pull that can change the motion, direction, or shape of an object. </p></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 34,
+          "state": {
+            "hidden": [
+              "imp8c9dam2w"
+            ]
+          }
+        },
+        {
+          "time": 37,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageLeftBulletsRight",
+      "start": 46,
+      "end": 62,
+      "html": "<section class=\"slide imageLeftBulletsRight\"><img id=\"imp8c9dam2x\" class=\" hidden \" src=\"force-intro.webp\" /><ul><li id=\"imp8c9dam2y\" class=\" hidden \" > Pushes move objects away </li><li id=\"imp8c9dam2z\" class=\" hidden \" > Pulls bring objects closer </li><li id=\"imp8c9dam30\" class=\" hidden \" > Forces can change speed </li><li id=\"imp8c9dam31\" class=\" hidden \" > Forces can change direction </li></ul></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 46,
+          "state": {
+            "hidden": [
+              "imp8c9dam2y",
+              "imp8c9dam2z",
+              "imp8c9dam30",
+              "imp8c9dam31"
+            ]
+          }
+        },
+        {
+          "time": 48,
+          "state": {
+            "hidden": [
+              "imp8c9dam2z",
+              "imp8c9dam30",
+              "imp8c9dam31"
+            ]
+          }
+        },
+        {
+          "time": 50,
+          "state": {
+            "hidden": [
+              "imp8c9dam30",
+              "imp8c9dam31"
+            ]
+          }
+        },
+        {
+          "time": 52,
+          "state": {
+            "hidden": [
+              "imp8c9dam31"
+            ]
+          }
+        },
+        {
+          "time": 54,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "eq",
+      "start": 62,
+      "end": 78,
+      "html": "<section class=\"slide eq\"><ul class=\"eq-lines\"><li id=\"imp8c9dam32\" class=\" eq-item eq-title \" > Newton's Second Law </li><li id=\"imp8c9dam33\" class=\" eq-item eq-math \" > $$ F = ma $$ </li><li id=\"imp8c9dam34\" class=\" eq-item eq-math \" > $$ F = 2 \\times 3 $$ </li><li id=\"imp8c9dam35\" class=\" eq-item eq-math \" > $$ F = 6 $$ </li></ul><div class=\"eq-side-panel\"><div id=\"imp8c9dam32-sp-1\" class=\"eq-explain-item hidden\" ><img src=\"eq.webp\" /></div><div id=\"imp8c9dam32-sp-2\" class=\"eq-explain-item hidden\" > Force depends on mass and acceleration. </div><div id=\"imp8c9dam33-sp-1\" class=\"eq-explain-item hidden\" > F means force. </div><div id=\"imp8c9dam33-sp-2\" class=\"eq-explain-item hidden\" > m means mass. </div><div id=\"imp8c9dam33-sp-3\" class=\"eq-explain-item hidden\" > a means acceleration. </div><div id=\"imp8c9dam33-sp-4\" class=\"eq-explain-item hidden\" > This is one of the most important physics equations. </div><div id=\"imp8c9dam33-sp-5\" class=\"eq-explain-item hidden\" > Greater acceleration requires greater force. </div><div id=\"imp8c9dam33-sp-6\" class=\"eq-explain-item hidden\" > Heavy objects resist motion changes. </div><div id=\"imp8c9dam34-sp-1\" class=\"eq-explain-item hidden\" ><img src=\"box.webp\" /></div><div id=\"imp8c9dam34-sp-2\" class=\"eq-explain-item hidden\" > Substitute values into the formula. </div><div id=\"imp8c9dam35-sp-1\" class=\"eq-explain-item hidden\" > The resulting force equals 6 newtons. </div><div id=\"imp8c9dam35-sp-2\" class=\"eq-explain-item hidden\" > Units matter in physics. </div><div id=\"imp8c9dam35-sp-3\" class=\"eq-explain-item hidden\" > Always include measurement units. </div><div id=\"imp8c9dam35-sp-4\" class=\"eq-explain-item hidden\" > Physics combines math with reality. </div><div id=\"imp8c9dam35-sp-5\" class=\"eq-explain-item hidden\" > Equations describe natural behavior. </div><div id=\"imp8c9dam35-sp-6\" class=\"eq-explain-item hidden\" > Reasoning matters more than memorization. </div></div></section>",
+      "groups": {
+        "focus": [],
+        "dim": [
+          "dim"
+        ],
+        "visible": [],
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 62,
+          "state": {
+            "focus": [
+              "imp8c9dam32"
+            ],
+            "dim": [
+              "imp8c9dam33",
+              "imp8c9dam34",
+              "imp8c9dam35"
+            ],
+            "visible": [
+              "imp8c9dam32-sp-1",
+              "imp8c9dam32-sp-2"
+            ],
+            "hidden": [
+              "imp8c9dam33-sp-1",
+              "imp8c9dam33-sp-2",
+              "imp8c9dam33-sp-3",
+              "imp8c9dam33-sp-4",
+              "imp8c9dam33-sp-5",
+              "imp8c9dam33-sp-6",
+              "imp8c9dam34-sp-1",
+              "imp8c9dam34-sp-2",
+              "imp8c9dam35-sp-1",
+              "imp8c9dam35-sp-2",
+              "imp8c9dam35-sp-3",
+              "imp8c9dam35-sp-4",
+              "imp8c9dam35-sp-5",
+              "imp8c9dam35-sp-6"
+            ]
+          }
+        },
+        {
+          "time": 64,
+          "state": {
+            "focus": [
+              "imp8c9dam33"
+            ],
+            "dim": [
+              "imp8c9dam32",
+              "imp8c9dam34",
+              "imp8c9dam35"
+            ],
+            "visible": [
+              "imp8c9dam33-sp-1",
+              "imp8c9dam33-sp-2",
+              "imp8c9dam33-sp-3",
+              "imp8c9dam33-sp-4",
+              "imp8c9dam33-sp-5",
+              "imp8c9dam33-sp-6"
+            ],
+            "hidden": [
+              "imp8c9dam32-sp-1",
+              "imp8c9dam32-sp-2",
+              "imp8c9dam34-sp-1",
+              "imp8c9dam34-sp-2",
+              "imp8c9dam35-sp-1",
+              "imp8c9dam35-sp-2",
+              "imp8c9dam35-sp-3",
+              "imp8c9dam35-sp-4",
+              "imp8c9dam35-sp-5",
+              "imp8c9dam35-sp-6"
+            ]
+          }
+        },
+        {
+          "time": 66,
+          "state": {
+            "focus": [
+              "imp8c9dam34"
+            ],
+            "dim": [
+              "imp8c9dam32",
+              "imp8c9dam33",
+              "imp8c9dam35"
+            ],
+            "visible": [
+              "imp8c9dam34-sp-1",
+              "imp8c9dam34-sp-2"
+            ],
+            "hidden": [
+              "imp8c9dam32-sp-1",
+              "imp8c9dam32-sp-2",
+              "imp8c9dam33-sp-1",
+              "imp8c9dam33-sp-2",
+              "imp8c9dam33-sp-3",
+              "imp8c9dam33-sp-4",
+              "imp8c9dam33-sp-5",
+              "imp8c9dam33-sp-6",
+              "imp8c9dam35-sp-1",
+              "imp8c9dam35-sp-2",
+              "imp8c9dam35-sp-3",
+              "imp8c9dam35-sp-4",
+              "imp8c9dam35-sp-5",
+              "imp8c9dam35-sp-6"
+            ]
+          }
+        },
+        {
+          "time": 68,
+          "state": {
+            "focus": [
+              "imp8c9dam35"
+            ],
+            "dim": [
+              "imp8c9dam32",
+              "imp8c9dam33",
+              "imp8c9dam34"
+            ],
+            "visible": [
+              "imp8c9dam35-sp-1",
+              "imp8c9dam35-sp-2",
+              "imp8c9dam35-sp-3",
+              "imp8c9dam35-sp-4",
+              "imp8c9dam35-sp-5",
+              "imp8c9dam35-sp-6"
+            ],
+            "hidden": [
+              "imp8c9dam32-sp-1",
+              "imp8c9dam32-sp-2",
+              "imp8c9dam33-sp-1",
+              "imp8c9dam33-sp-2",
+              "imp8c9dam33-sp-3",
+              "imp8c9dam33-sp-4",
+              "imp8c9dam33-sp-5",
+              "imp8c9dam33-sp-6",
+              "imp8c9dam34-sp-1",
+              "imp8c9dam34-sp-2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "textGrid",
+      "start": 78,
+      "end": 96,
+      "html": "<section class=\"slide textGrid\"><div class=\"text-grid\"><div id=\"imp8c9dam36\" class=\" text-grid-item hidden \" > Push </div><div id=\"imp8c9dam37\" class=\" text-grid-item hidden \" > Pull </div><div id=\"imp8c9dam38\" class=\" text-grid-item hidden \" > Motion </div><div id=\"imp8c9dam39\" class=\" text-grid-item hidden \" > Mass </div><div id=\"imp8c9dam3a\" class=\" text-grid-item hidden \" > Speed </div><div id=\"imp8c9dam3b\" class=\" text-grid-item hidden \" > Acceleration </div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 78,
+          "state": {
+            "hidden": [
+              "imp8c9dam37",
+              "imp8c9dam38",
+              "imp8c9dam39",
+              "imp8c9dam3a",
+              "imp8c9dam3b"
+            ]
+          }
+        },
+        {
+          "time": 80,
+          "state": {
+            "hidden": [
+              "imp8c9dam38",
+              "imp8c9dam39",
+              "imp8c9dam3a",
+              "imp8c9dam3b"
+            ]
+          }
+        },
+        {
+          "time": 82,
+          "state": {
+            "hidden": [
+              "imp8c9dam39",
+              "imp8c9dam3a",
+              "imp8c9dam3b"
+            ]
+          }
+        },
+        {
+          "time": 84,
+          "state": {
+            "hidden": [
+              "imp8c9dam3a",
+              "imp8c9dam3b"
+            ]
+          }
+        },
+        {
+          "time": 86,
+          "state": {
+            "hidden": [
+              "imp8c9dam3b"
+            ]
+          }
+        },
+        {
+          "time": 88,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageStrip",
+      "start": 96,
+      "end": 108,
+      "html": "<section class=\"slide imageStrip\"><div class=\"image-strip\"><div class=\"image-strip-item\"><img id=\"imp8c9dam3c\" class=\" hidden \" src=\"force-intro.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dam3d\" class=\" hidden \" src=\"box.webp\" /></div><div class=\"image-strip-item\"><img id=\"imp8c9dam3e\" class=\" hidden \" src=\"eq.webp\" /></div></div></section>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 96,
+          "state": {
+            "hidden": [
+              "imp8c9dam3d",
+              "imp8c9dam3e"
+            ]
+          }
+        },
+        {
+          "time": 98,
+          "state": {
+            "hidden": [
+              "imp8c9dam3e"
+            ]
+          }
+        },
+        {
+          "time": 100,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "skeleton",
+      "start": 108,
+      "end": 136,
+      "html": "<section class=\"slide skeleton\"><div class=\"skeleton-body\"><h1 id=\"imp8c9dam3f\" class=\"hidden \" > Every Motion Has a Cause </h1><div id=\"imp8c9dam3g\" class=\"skeleton-image hidden \" ><img src=\"force-intro.webp\" /></div><p id=\"imp8c9dam3h\" class=\"hidden \" > Physics searches for invisible rules. </p><h1 id=\"imp8c9dam3i\" class=\"hidden \" > Force Explains Change </h1><div id=\"imp8c9dam3j\" class=\"skeleton-image hidden \" ><img src=\"eq.webp\" /></div><p id=\"imp8c9dam3k\" class=\"hidden \" > Equations compress understanding. </p></div></section>",
+      "groups": {
+        "visible": [],
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 108,
+          "state": {
+            "visible": [
+              "imp8c9dam3f"
+            ],
+            "hidden": [
+              "imp8c9dam3g",
+              "imp8c9dam3h",
+              "imp8c9dam3i",
+              "imp8c9dam3j",
+              "imp8c9dam3k"
+            ]
+          }
+        },
+        {
+          "time": 112,
+          "state": {
+            "visible": [
+              "imp8c9dam3g"
+            ],
+            "hidden": [
+              "imp8c9dam3f",
+              "imp8c9dam3h",
+              "imp8c9dam3i",
+              "imp8c9dam3j",
+              "imp8c9dam3k"
+            ]
+          }
+        },
+        {
+          "time": 116,
+          "state": {
+            "visible": [
+              "imp8c9dam3h"
+            ],
+            "hidden": [
+              "imp8c9dam3f",
+              "imp8c9dam3g",
+              "imp8c9dam3i",
+              "imp8c9dam3j",
+              "imp8c9dam3k"
+            ]
+          }
+        },
+        {
+          "time": 120,
+          "state": {
+            "visible": [
+              "imp8c9dam3i"
+            ],
+            "hidden": [
+              "imp8c9dam3f",
+              "imp8c9dam3g",
+              "imp8c9dam3h",
+              "imp8c9dam3j",
+              "imp8c9dam3k"
+            ]
+          }
+        },
+        {
+          "time": 124,
+          "state": {
+            "visible": [
+              "imp8c9dam3j"
+            ],
+            "hidden": [
+              "imp8c9dam3f",
+              "imp8c9dam3g",
+              "imp8c9dam3h",
+              "imp8c9dam3i",
+              "imp8c9dam3k"
+            ]
+          }
+        },
+        {
+          "time": 128,
+          "state": {
+            "visible": [
+              "imp8c9dam3k"
+            ],
+            "hidden": [
+              "imp8c9dam3f",
+              "imp8c9dam3g",
+              "imp8c9dam3h",
+              "imp8c9dam3i",
+              "imp8c9dam3j"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "quoteSlide",
+      "start": 136,
+      "end": 146,
+      "html": "<blockquote class=\"slide quoteSlide\"><p id=\"imp8c9dam3l\" class=\" hidden \" > The important thing is not to stop questioning. </p><footer id=\"imp8c9dam3m\" class=\" hidden \" > — Albert Einstein </footer></blockquote>",
+      "groups": {
+        "hidden": [
+          "hidden"
+        ]
+      },
+      "actions": [
+        {
+          "time": 136,
+          "state": {
+            "hidden": [
+              "imp8c9dam3m"
+            ]
+          }
+        },
+        {
+          "time": 139,
+          "state": {
+            "hidden": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "focusList",
+      "start": 146,
+      "end": 162,
+      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dam3n\" class=\"\" > Lesson Recap </h1><ul><li id=\"imp8c9dam3o\" class=\"\" > Force changes motion </li><li id=\"imp8c9dam3p\" class=\"\" > Force depends on mass </li><li id=\"imp8c9dam3q\" class=\"\" > Equations describe physics </li><li id=\"imp8c9dam3r\" class=\"\" > Reasoning builds understanding </li></ul></section>",
+      "groups": {
+        "focus": [],
+        "dim": [
+          "dim"
+        ]
+      },
+      "actions": [
+        {
+          "time": 146,
+          "state": {
+            "focus": [
+              "imp8c9dam3n"
+            ],
+            "dim": [
+              "imp8c9dam3o",
+              "imp8c9dam3p",
+              "imp8c9dam3q",
+              "imp8c9dam3r"
+            ]
+          }
+        },
+        {
+          "time": 148,
+          "state": {
+            "focus": [
+              "imp8c9dam3o"
+            ],
+            "dim": [
+              "imp8c9dam3n",
+              "imp8c9dam3p",
+              "imp8c9dam3q",
+              "imp8c9dam3r"
+            ]
+          }
+        },
+        {
+          "time": 150,
+          "state": {
+            "focus": [
+              "imp8c9dam3p"
+            ],
+            "dim": [
+              "imp8c9dam3n",
+              "imp8c9dam3o",
+              "imp8c9dam3q",
+              "imp8c9dam3r"
+            ]
+          }
+        },
+        {
+          "time": 152,
+          "state": {
+            "focus": [
+              "imp8c9dam3q"
+            ],
+            "dim": [
+              "imp8c9dam3n",
+              "imp8c9dam3o",
+              "imp8c9dam3p",
+              "imp8c9dam3r"
+            ]
+          }
+        },
+        {
+          "time": 154,
+          "state": {
+            "focus": [
+              "imp8c9dam3r"
+            ],
+            "dim": [
+              "imp8c9dam3n",
+              "imp8c9dam3o",
+              "imp8c9dam3p",
+              "imp8c9dam3q"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
