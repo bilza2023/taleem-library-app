@@ -9,7 +9,7 @@ const taleem = new Taleem("What Is Taleem.help");
 taleem.background = {
   backgroundColor: "#05070c",
   backgroundImage: "bg.webp",
-  backgroundImageOpacity: 0.6
+  backgroundImageOpacity: 0.4
 };
 
 // --------------------------------------------------

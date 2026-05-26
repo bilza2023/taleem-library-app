@@ -10,7 +10,7 @@
       "type": "titleAndSubtitle",
       "start": 0,
       "end": 8,
-      "html": "<section class=\"slide titleAndSubtitle\"><h1 id=\"imp8c9daj1o\" class=\" hidden taleem-heading-lg \" > Focus List Testing </h1><h2 id=\"imp8c9daj1p\" class=\" hidden taleem-heading-md \" > Procedures • sequences • guided thinking </h2></section>",
+      "html": "<section class=\"slide titleAndSubtitle\"><h1 id=\"implyzvcp3g\" class=\" hidden taleem-heading-lg \" > Focus List Testing </h1><h2 id=\"implyzvcp3h\" class=\" hidden taleem-heading-md \" > Procedures • sequences • guided thinking </h2></section>",
       "groups": {
         "hidden": [
           "hidden"
@@ -21,7 +21,7 @@
           "time": 0,
           "state": {
             "hidden": [
-              "imp8c9daj1p"
+              "implyzvcp3h"
             ]
           }
         },
@@ -37,7 +37,7 @@
       "type": "focusList",
       "start": 8,
       "end": 26,
-      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9daj1q\" class=\"\" > How to Solve an Equation </h1><ul><li id=\"imp8c9daj1r\" class=\"\" > Simplify both sides first </li><li id=\"imp8c9daj1s\" class=\"\" > Move variables carefully </li><li id=\"imp8c9daj1t\" class=\"\" > Keep the equation balanced </li><li id=\"imp8c9daj1u\" class=\"\" > Isolate the unknown </li><li id=\"imp8c9daj1v\" class=\"\" > Verify the final answer </li></ul></section>",
+      "html": "<section class=\"slide focusList\"><h1 id=\"implyzvcp3i\" class=\"\" > How to Solve an Equation </h1><ul><li id=\"implyzvcp3j\" class=\"\" > Simplify both sides first </li><li id=\"implyzvcp3k\" class=\"\" > Move variables carefully </li><li id=\"implyzvcp3l\" class=\"\" > Keep the equation balanced </li><li id=\"implyzvcp3m\" class=\"\" > Isolate the unknown </li><li id=\"implyzvcp3n\" class=\"\" > Verify the final answer </li></ul></section>",
       "groups": {
         "focus": [],
         "dim": [
@@ -49,14 +49,14 @@
           "time": 8,
           "state": {
             "focus": [
-              "imp8c9daj1q"
+              "implyzvcp3i"
             ],
             "dim": [
-              "imp8c9daj1r",
-              "imp8c9daj1s",
-              "imp8c9daj1t",
-              "imp8c9daj1u",
-              "imp8c9daj1v"
+              "implyzvcp3j",
+              "implyzvcp3k",
+              "implyzvcp3l",
+              "implyzvcp3m",
+              "implyzvcp3n"
             ]
           }
         },
@@ -64,14 +64,14 @@
           "time": 10,
           "state": {
             "focus": [
-              "imp8c9daj1r"
+              "implyzvcp3j"
             ],
             "dim": [
-              "imp8c9daj1q",
-              "imp8c9daj1s",
-              "imp8c9daj1t",
-              "imp8c9daj1u",
-              "imp8c9daj1v"
+              "implyzvcp3i",
+              "implyzvcp3k",
+              "implyzvcp3l",
+              "implyzvcp3m",
+              "implyzvcp3n"
             ]
           }
         },
@@ -79,14 +79,14 @@
           "time": 12,
           "state": {
             "focus": [
-              "imp8c9daj1s"
+              "implyzvcp3k"
             ],
             "dim": [
-              "imp8c9daj1q",
-              "imp8c9daj1r",
-              "imp8c9daj1t",
-              "imp8c9daj1u",
-              "imp8c9daj1v"
+              "implyzvcp3i",
+              "implyzvcp3j",
+              "implyzvcp3l",
+              "implyzvcp3m",
+              "implyzvcp3n"
             ]
           }
         },
@@ -94,14 +94,14 @@
           "time": 14,
           "state": {
             "focus": [
-              "imp8c9daj1t"
+              "implyzvcp3l"
             ],
             "dim": [
-              "imp8c9daj1q",
-              "imp8c9daj1r",
-              "imp8c9daj1s",
-              "imp8c9daj1u",
-              "imp8c9daj1v"
+              "implyzvcp3i",
+              "implyzvcp3j",
+              "implyzvcp3k",
+              "implyzvcp3m",
+              "implyzvcp3n"
             ]
           }
         },
@@ -109,14 +109,14 @@
           "time": 16,
           "state": {
             "focus": [
-              "imp8c9daj1u"
+              "implyzvcp3m"
             ],
             "dim": [
-              "imp8c9daj1q",
-              "imp8c9daj1r",
-              "imp8c9daj1s",
-              "imp8c9daj1t",
-              "imp8c9daj1v"
+              "implyzvcp3i",
+              "implyzvcp3j",
+              "implyzvcp3k",
+              "implyzvcp3l",
+              "implyzvcp3n"
             ]
           }
         },
@@ -124,14 +124,14 @@
           "time": 18,
           "state": {
             "focus": [
-              "imp8c9daj1v"
+              "implyzvcp3n"
             ],
             "dim": [
-              "imp8c9daj1q",
-              "imp8c9daj1r",
-              "imp8c9daj1s",
-              "imp8c9daj1t",
-              "imp8c9daj1u"
+              "implyzvcp3i",
+              "implyzvcp3j",
+              "implyzvcp3k",
+              "implyzvcp3l",
+              "implyzvcp3m"
             ]
           }
         }
@@ -141,7 +141,7 @@
       "type": "focusList",
       "start": 26,
       "end": 46,
-      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dak1w\" class=\"\" > Scientific Method </h1><ul><li id=\"imp8c9dak1x\" class=\"\" > Observe the phenomenon </li><li id=\"imp8c9dak1y\" class=\"\" > Ask a precise question </li><li id=\"imp8c9dak1z\" class=\"\" > Form a testable hypothesis </li><li id=\"imp8c9dak20\" class=\"\" > Perform controlled experiments </li><li id=\"imp8c9dak21\" class=\"\" > Analyze the collected data </li><li id=\"imp8c9dak22\" class=\"\" > Reach a logical conclusion </li></ul></section>",
+      "html": "<section class=\"slide focusList\"><h1 id=\"implyzvcp3o\" class=\"\" > Scientific Method </h1><ul><li id=\"implyzvcp3p\" class=\"\" > Observe the phenomenon </li><li id=\"implyzvcp3q\" class=\"\" > Ask a precise question </li><li id=\"implyzvcp3r\" class=\"\" > Form a testable hypothesis </li><li id=\"implyzvcp3s\" class=\"\" > Perform controlled experiments </li><li id=\"implyzvcp3t\" class=\"\" > Analyze the collected data </li><li id=\"implyzvcp3u\" class=\"\" > Reach a logical conclusion </li></ul></section>",
       "groups": {
         "focus": [],
         "dim": [
@@ -153,15 +153,15 @@
           "time": 26,
           "state": {
             "focus": [
-              "imp8c9dak1w"
+              "implyzvcp3o"
             ],
             "dim": [
-              "imp8c9dak1x",
-              "imp8c9dak1y",
-              "imp8c9dak1z",
-              "imp8c9dak20",
-              "imp8c9dak21",
-              "imp8c9dak22"
+              "implyzvcp3p",
+              "implyzvcp3q",
+              "implyzvcp3r",
+              "implyzvcp3s",
+              "implyzvcp3t",
+              "implyzvcp3u"
             ]
           }
         },
@@ -169,15 +169,15 @@
           "time": 28,
           "state": {
             "focus": [
-              "imp8c9dak1x"
+              "implyzvcp3p"
             ],
             "dim": [
-              "imp8c9dak1w",
-              "imp8c9dak1y",
-              "imp8c9dak1z",
-              "imp8c9dak20",
-              "imp8c9dak21",
-              "imp8c9dak22"
+              "implyzvcp3o",
+              "implyzvcp3q",
+              "implyzvcp3r",
+              "implyzvcp3s",
+              "implyzvcp3t",
+              "implyzvcp3u"
             ]
           }
         },
@@ -185,15 +185,15 @@
           "time": 30,
           "state": {
             "focus": [
-              "imp8c9dak1y"
+              "implyzvcp3q"
             ],
             "dim": [
-              "imp8c9dak1w",
-              "imp8c9dak1x",
-              "imp8c9dak1z",
-              "imp8c9dak20",
-              "imp8c9dak21",
-              "imp8c9dak22"
+              "implyzvcp3o",
+              "implyzvcp3p",
+              "implyzvcp3r",
+              "implyzvcp3s",
+              "implyzvcp3t",
+              "implyzvcp3u"
             ]
           }
         },
@@ -201,15 +201,15 @@
           "time": 32,
           "state": {
             "focus": [
-              "imp8c9dak1z"
+              "implyzvcp3r"
             ],
             "dim": [
-              "imp8c9dak1w",
-              "imp8c9dak1x",
-              "imp8c9dak1y",
-              "imp8c9dak20",
-              "imp8c9dak21",
-              "imp8c9dak22"
+              "implyzvcp3o",
+              "implyzvcp3p",
+              "implyzvcp3q",
+              "implyzvcp3s",
+              "implyzvcp3t",
+              "implyzvcp3u"
             ]
           }
         },
@@ -217,15 +217,15 @@
           "time": 34,
           "state": {
             "focus": [
-              "imp8c9dak20"
+              "implyzvcp3s"
             ],
             "dim": [
-              "imp8c9dak1w",
-              "imp8c9dak1x",
-              "imp8c9dak1y",
-              "imp8c9dak1z",
-              "imp8c9dak21",
-              "imp8c9dak22"
+              "implyzvcp3o",
+              "implyzvcp3p",
+              "implyzvcp3q",
+              "implyzvcp3r",
+              "implyzvcp3t",
+              "implyzvcp3u"
             ]
           }
         },
@@ -233,15 +233,15 @@
           "time": 36,
           "state": {
             "focus": [
-              "imp8c9dak21"
+              "implyzvcp3t"
             ],
             "dim": [
-              "imp8c9dak1w",
-              "imp8c9dak1x",
-              "imp8c9dak1y",
-              "imp8c9dak1z",
-              "imp8c9dak20",
-              "imp8c9dak22"
+              "implyzvcp3o",
+              "implyzvcp3p",
+              "implyzvcp3q",
+              "implyzvcp3r",
+              "implyzvcp3s",
+              "implyzvcp3u"
             ]
           }
         },
@@ -249,15 +249,15 @@
           "time": 38,
           "state": {
             "focus": [
-              "imp8c9dak22"
+              "implyzvcp3u"
             ],
             "dim": [
-              "imp8c9dak1w",
-              "imp8c9dak1x",
-              "imp8c9dak1y",
-              "imp8c9dak1z",
-              "imp8c9dak20",
-              "imp8c9dak21"
+              "implyzvcp3o",
+              "implyzvcp3p",
+              "implyzvcp3q",
+              "implyzvcp3r",
+              "implyzvcp3s",
+              "implyzvcp3t"
             ]
           }
         }
@@ -267,7 +267,7 @@
       "type": "focusList",
       "start": 46,
       "end": 64,
-      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dak23\" class=\"\" > Writing an Essay </h1><ul><li id=\"imp8c9dak24\" class=\"\" > Start with a clear thesis </li><li id=\"imp8c9dak25\" class=\"\" > Develop one idea per paragraph </li><li id=\"imp8c9dak26\" class=\"\" > Use evidence carefully </li><li id=\"imp8c9dak27\" class=\"\" > Maintain logical flow </li><li id=\"imp8c9dak28\" class=\"\" > Conclude with clarity </li></ul></section>",
+      "html": "<section class=\"slide focusList\"><h1 id=\"implyzvcp3v\" class=\"\" > Writing an Essay </h1><ul><li id=\"implyzvcp3w\" class=\"\" > Start with a clear thesis </li><li id=\"implyzvcp3x\" class=\"\" > Develop one idea per paragraph </li><li id=\"implyzvcp3y\" class=\"\" > Use evidence carefully </li><li id=\"implyzvcp3z\" class=\"\" > Maintain logical flow </li><li id=\"implyzvcp40\" class=\"\" > Conclude with clarity </li></ul></section>",
       "groups": {
         "focus": [],
         "dim": [
@@ -279,14 +279,14 @@
           "time": 46,
           "state": {
             "focus": [
-              "imp8c9dak23"
+              "implyzvcp3v"
             ],
             "dim": [
-              "imp8c9dak24",
-              "imp8c9dak25",
-              "imp8c9dak26",
-              "imp8c9dak27",
-              "imp8c9dak28"
+              "implyzvcp3w",
+              "implyzvcp3x",
+              "implyzvcp3y",
+              "implyzvcp3z",
+              "implyzvcp40"
             ]
           }
         },
@@ -294,14 +294,14 @@
           "time": 48,
           "state": {
             "focus": [
-              "imp8c9dak24"
+              "implyzvcp3w"
             ],
             "dim": [
-              "imp8c9dak23",
-              "imp8c9dak25",
-              "imp8c9dak26",
-              "imp8c9dak27",
-              "imp8c9dak28"
+              "implyzvcp3v",
+              "implyzvcp3x",
+              "implyzvcp3y",
+              "implyzvcp3z",
+              "implyzvcp40"
             ]
           }
         },
@@ -309,14 +309,14 @@
           "time": 50,
           "state": {
             "focus": [
-              "imp8c9dak25"
+              "implyzvcp3x"
             ],
             "dim": [
-              "imp8c9dak23",
-              "imp8c9dak24",
-              "imp8c9dak26",
-              "imp8c9dak27",
-              "imp8c9dak28"
+              "implyzvcp3v",
+              "implyzvcp3w",
+              "implyzvcp3y",
+              "implyzvcp3z",
+              "implyzvcp40"
             ]
           }
         },
@@ -324,14 +324,14 @@
           "time": 52,
           "state": {
             "focus": [
-              "imp8c9dak26"
+              "implyzvcp3y"
             ],
             "dim": [
-              "imp8c9dak23",
-              "imp8c9dak24",
-              "imp8c9dak25",
-              "imp8c9dak27",
-              "imp8c9dak28"
+              "implyzvcp3v",
+              "implyzvcp3w",
+              "implyzvcp3x",
+              "implyzvcp3z",
+              "implyzvcp40"
             ]
           }
         },
@@ -339,14 +339,14 @@
           "time": 54,
           "state": {
             "focus": [
-              "imp8c9dak27"
+              "implyzvcp3z"
             ],
             "dim": [
-              "imp8c9dak23",
-              "imp8c9dak24",
-              "imp8c9dak25",
-              "imp8c9dak26",
-              "imp8c9dak28"
+              "implyzvcp3v",
+              "implyzvcp3w",
+              "implyzvcp3x",
+              "implyzvcp3y",
+              "implyzvcp40"
             ]
           }
         },
@@ -354,14 +354,14 @@
           "time": 56,
           "state": {
             "focus": [
-              "imp8c9dak28"
+              "implyzvcp40"
             ],
             "dim": [
-              "imp8c9dak23",
-              "imp8c9dak24",
-              "imp8c9dak25",
-              "imp8c9dak26",
-              "imp8c9dak27"
+              "implyzvcp3v",
+              "implyzvcp3w",
+              "implyzvcp3x",
+              "implyzvcp3y",
+              "implyzvcp3z"
             ]
           }
         }
@@ -371,7 +371,7 @@
       "type": "focusList",
       "start": 64,
       "end": 84,
-      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dak29\" class=\"\" > Exam Preparation Strategy </h1><ul><li id=\"imp8c9dak2a\" class=\"\" > Study difficult topics early </li><li id=\"imp8c9dak2b\" class=\"\" > Revise actively not passively </li><li id=\"imp8c9dak2c\" class=\"\" > Solve problems repeatedly </li><li id=\"imp8c9dak2d\" class=\"\" > Take timed practice tests </li><li id=\"imp8c9dak2e\" class=\"\" > Review mistakes honestly </li><li id=\"imp8c9dak2f\" class=\"\" > Sleep before the exam </li></ul></section>",
+      "html": "<section class=\"slide focusList\"><h1 id=\"implyzvcp41\" class=\"\" > Exam Preparation Strategy </h1><ul><li id=\"implyzvcp42\" class=\"\" > Study difficult topics early </li><li id=\"implyzvcp43\" class=\"\" > Revise actively not passively </li><li id=\"implyzvcp44\" class=\"\" > Solve problems repeatedly </li><li id=\"implyzvcp45\" class=\"\" > Take timed practice tests </li><li id=\"implyzvcp46\" class=\"\" > Review mistakes honestly </li><li id=\"implyzvcp47\" class=\"\" > Sleep before the exam </li></ul></section>",
       "groups": {
         "focus": [],
         "dim": [
@@ -383,15 +383,15 @@
           "time": 64,
           "state": {
             "focus": [
-              "imp8c9dak29"
+              "implyzvcp41"
             ],
             "dim": [
-              "imp8c9dak2a",
-              "imp8c9dak2b",
-              "imp8c9dak2c",
-              "imp8c9dak2d",
-              "imp8c9dak2e",
-              "imp8c9dak2f"
+              "implyzvcp42",
+              "implyzvcp43",
+              "implyzvcp44",
+              "implyzvcp45",
+              "implyzvcp46",
+              "implyzvcp47"
             ]
           }
         },
@@ -399,15 +399,15 @@
           "time": 66,
           "state": {
             "focus": [
-              "imp8c9dak2a"
+              "implyzvcp42"
             ],
             "dim": [
-              "imp8c9dak29",
-              "imp8c9dak2b",
-              "imp8c9dak2c",
-              "imp8c9dak2d",
-              "imp8c9dak2e",
-              "imp8c9dak2f"
+              "implyzvcp41",
+              "implyzvcp43",
+              "implyzvcp44",
+              "implyzvcp45",
+              "implyzvcp46",
+              "implyzvcp47"
             ]
           }
         },
@@ -415,15 +415,15 @@
           "time": 68,
           "state": {
             "focus": [
-              "imp8c9dak2b"
+              "implyzvcp43"
             ],
             "dim": [
-              "imp8c9dak29",
-              "imp8c9dak2a",
-              "imp8c9dak2c",
-              "imp8c9dak2d",
-              "imp8c9dak2e",
-              "imp8c9dak2f"
+              "implyzvcp41",
+              "implyzvcp42",
+              "implyzvcp44",
+              "implyzvcp45",
+              "implyzvcp46",
+              "implyzvcp47"
             ]
           }
         },
@@ -431,15 +431,15 @@
           "time": 70,
           "state": {
             "focus": [
-              "imp8c9dak2c"
+              "implyzvcp44"
             ],
             "dim": [
-              "imp8c9dak29",
-              "imp8c9dak2a",
-              "imp8c9dak2b",
-              "imp8c9dak2d",
-              "imp8c9dak2e",
-              "imp8c9dak2f"
+              "implyzvcp41",
+              "implyzvcp42",
+              "implyzvcp43",
+              "implyzvcp45",
+              "implyzvcp46",
+              "implyzvcp47"
             ]
           }
         },
@@ -447,15 +447,15 @@
           "time": 72,
           "state": {
             "focus": [
-              "imp8c9dak2d"
+              "implyzvcp45"
             ],
             "dim": [
-              "imp8c9dak29",
-              "imp8c9dak2a",
-              "imp8c9dak2b",
-              "imp8c9dak2c",
-              "imp8c9dak2e",
-              "imp8c9dak2f"
+              "implyzvcp41",
+              "implyzvcp42",
+              "implyzvcp43",
+              "implyzvcp44",
+              "implyzvcp46",
+              "implyzvcp47"
             ]
           }
         },
@@ -463,15 +463,15 @@
           "time": 74,
           "state": {
             "focus": [
-              "imp8c9dak2e"
+              "implyzvcp46"
             ],
             "dim": [
-              "imp8c9dak29",
-              "imp8c9dak2a",
-              "imp8c9dak2b",
-              "imp8c9dak2c",
-              "imp8c9dak2d",
-              "imp8c9dak2f"
+              "implyzvcp41",
+              "implyzvcp42",
+              "implyzvcp43",
+              "implyzvcp44",
+              "implyzvcp45",
+              "implyzvcp47"
             ]
           }
         },
@@ -479,15 +479,15 @@
           "time": 76,
           "state": {
             "focus": [
-              "imp8c9dak2f"
+              "implyzvcp47"
             ],
             "dim": [
-              "imp8c9dak29",
-              "imp8c9dak2a",
-              "imp8c9dak2b",
-              "imp8c9dak2c",
-              "imp8c9dak2d",
-              "imp8c9dak2e"
+              "implyzvcp41",
+              "implyzvcp42",
+              "implyzvcp43",
+              "implyzvcp44",
+              "implyzvcp45",
+              "implyzvcp46"
             ]
           }
         }
@@ -497,7 +497,7 @@
       "type": "focusList",
       "start": 84,
       "end": 102,
-      "html": "<section class=\"slide focusList\"><h1 id=\"imp8c9dak2g\" class=\"\" > Programming Workflow </h1><ul><li id=\"imp8c9dak2h\" class=\"\" > Understand the problem first </li><li id=\"imp8c9dak2i\" class=\"\" > Break logic into steps </li><li id=\"imp8c9dak2j\" class=\"\" > Write small testable code </li><li id=\"imp8c9dak2k\" class=\"\" > Debug systematically </li><li id=\"imp8c9dak2l\" class=\"\" > Refactor after correctness </li></ul></section>",
+      "html": "<section class=\"slide focusList\"><h1 id=\"implyzvcp48\" class=\"\" > Programming Workflow </h1><ul><li id=\"implyzvcp49\" class=\"\" > Understand the problem first </li><li id=\"implyzvcp4a\" class=\"\" > Break logic into steps </li><li id=\"implyzvcp4b\" class=\"\" > Write small testable code </li><li id=\"implyzvcp4c\" class=\"\" > Debug systematically </li><li id=\"implyzvcp4d\" class=\"\" > Refactor after correctness </li></ul></section>",
       "groups": {
         "focus": [],
         "dim": [
@@ -509,14 +509,14 @@
           "time": 84,
           "state": {
             "focus": [
-              "imp8c9dak2g"
+              "implyzvcp48"
             ],
             "dim": [
-              "imp8c9dak2h",
-              "imp8c9dak2i",
-              "imp8c9dak2j",
-              "imp8c9dak2k",
-              "imp8c9dak2l"
+              "implyzvcp49",
+              "implyzvcp4a",
+              "implyzvcp4b",
+              "implyzvcp4c",
+              "implyzvcp4d"
             ]
           }
         },
@@ -524,14 +524,14 @@
           "time": 86,
           "state": {
             "focus": [
-              "imp8c9dak2h"
+              "implyzvcp49"
             ],
             "dim": [
-              "imp8c9dak2g",
-              "imp8c9dak2i",
-              "imp8c9dak2j",
-              "imp8c9dak2k",
-              "imp8c9dak2l"
+              "implyzvcp48",
+              "implyzvcp4a",
+              "implyzvcp4b",
+              "implyzvcp4c",
+              "implyzvcp4d"
             ]
           }
         },
@@ -539,14 +539,14 @@
           "time": 88,
           "state": {
             "focus": [
-              "imp8c9dak2i"
+              "implyzvcp4a"
             ],
             "dim": [
-              "imp8c9dak2g",
-              "imp8c9dak2h",
-              "imp8c9dak2j",
-              "imp8c9dak2k",
-              "imp8c9dak2l"
+              "implyzvcp48",
+              "implyzvcp49",
+              "implyzvcp4b",
+              "implyzvcp4c",
+              "implyzvcp4d"
             ]
           }
         },
@@ -554,14 +554,14 @@
           "time": 90,
           "state": {
             "focus": [
-              "imp8c9dak2j"
+              "implyzvcp4b"
             ],
             "dim": [
-              "imp8c9dak2g",
-              "imp8c9dak2h",
-              "imp8c9dak2i",
-              "imp8c9dak2k",
-              "imp8c9dak2l"
+              "implyzvcp48",
+              "implyzvcp49",
+              "implyzvcp4a",
+              "implyzvcp4c",
+              "implyzvcp4d"
             ]
           }
         },
@@ -569,14 +569,14 @@
           "time": 92,
           "state": {
             "focus": [
-              "imp8c9dak2k"
+              "implyzvcp4c"
             ],
             "dim": [
-              "imp8c9dak2g",
-              "imp8c9dak2h",
-              "imp8c9dak2i",
-              "imp8c9dak2j",
-              "imp8c9dak2l"
+              "implyzvcp48",
+              "implyzvcp49",
+              "implyzvcp4a",
+              "implyzvcp4b",
+              "implyzvcp4d"
             ]
           }
         },
@@ -584,14 +584,14 @@
           "time": 94,
           "state": {
             "focus": [
-              "imp8c9dak2l"
+              "implyzvcp4d"
             ],
             "dim": [
-              "imp8c9dak2g",
-              "imp8c9dak2h",
-              "imp8c9dak2i",
-              "imp8c9dak2j",
-              "imp8c9dak2k"
+              "implyzvcp48",
+              "implyzvcp49",
+              "implyzvcp4a",
+              "implyzvcp4b",
+              "implyzvcp4c"
             ]
           }
         }

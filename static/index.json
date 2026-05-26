@@ -46,5 +46,13 @@
   {
     "file": "eg-test01.json",
     "slug": "eg-test01"
+  },
+  {
+    "file": "Prealg-01-why-pre-algebra.json",
+    "slug": "Prealg-01-why-pre-algebra"
+  },
+  {
+    "file": "Prealg-01-number-families.json",
+    "slug": "Prealg-01-number-families"
   }
 ]
